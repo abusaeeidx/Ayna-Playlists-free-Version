@@ -3,38 +3,38 @@
 # github.com/abusaeeidx/
 # Iptv telegram channels
 # https://t.me/xfireflix
-# Last update: 2025-07-06 09:31:31 PM (Bangladesh Time)
+# Last update: 2025-07-06 09:44:17 PM (Bangladesh Time)
 
 #EXTM3U
 #EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-logo="https://s3.aynaott.com/storage/eff41809fca04f7c1da5481e135d7913" group-title="Ayna OTT", ATN Bangla
-https://tvsen5.aynascope.net/P3y2URgG7LDe/index.m3u8?e=1751823099&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=4d963eeb6a40b45d839fab4b3281835d
+https://tvsen5.aynascope.net/P3y2URgG7LDe/index.m3u8?e=1751823867&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=b5ff31124b113f87ac36c8447079a59d
 #EXTINF:-1 tvg-id="a108c4e9-ccfa-42f2-8f8f-169ded28cca2" tvg-logo="https://s3.aynaott.com/storage/897698f593fc07974fc46881a440733d" group-title="Ayna OTT", Ananda TV
-https://tvsen6.aynascope.net/anandatv/index.m3u8?e=1751823101&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=89047b3fb36c3a938eb4ce5fd940156c
+https://tvsen6.aynascope.net/anandatv/index.m3u8?e=1751823869&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=4bbfa1ff2f8e58ea6e8b7df83d85525f
 #EXTINF:-1 tvg-id="c0480a4a-f066-4a20-9f7d-73bbd852260f" tvg-logo="https://s3.aynaott.com/storage/c5b2c623863fbe4033d59d52ff7371ac" group-title="Ayna OTT", My TV
-https://tvsen6.aynascope.net/mytv/index.m3u8?e=1751823102&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=dba8d544941ab3f7d405e0a17438331b
+https://tvsen6.aynascope.net/mytv/index.m3u8?e=1751823872&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=fff8991ff3c2eee8af3dc039b9ce3e36
 #EXTINF:-1 tvg-id="0ac6af3d-acce-4d9d-9ce5-32d4b53f9326" tvg-logo="https://s3.aynaott.com/storage/ffd7ba9b76ad555933f94bcb7ff26b44" group-title="Ayna OTT", Global TV
-https://tvsen6.aynascope.net/globaltvhd/index.m3u8?e=1751823103&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=7685c9af9136d6d33e724a010003a7ac
+https://tvsen6.aynascope.net/globaltvhd/index.m3u8?e=1751823873&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=1d90119cb157bbe4909d18be1c9432dd
 #EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-logo="https://s3.aynaott.com/storage/8a1af81802b0728c064c2adabcdc72c8" group-title="Ayna OTT", ETV
-https://tvsen6.aynascope.net/etv/index.m3u8?e=1751823104&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=c4b4b0d055b4a49630bba66f84b8fe95
+https://tvsen6.aynascope.net/etv/index.m3u8?e=1751823874&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=c56c1c974bffa996f1d2e9deee3296a8
 #EXTINF:-1 tvg-id="dd8c50e9-5dad-4cb9-9df8-5763e95281ad" tvg-logo="https://s3.aynaott.com/storage/d10390e5434e8cb44172257abd714beb" group-title="Ayna OTT", Desh TV
-https://tvsen6.aynascope.net/deshtv/index.m3u8?e=1751823106&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=cb0231d8102634370a06ec445c6e995c
+https://tvsen6.aynascope.net/deshtv/index.m3u8?e=1751823875&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=6991d5764968717c44575e401829270e
 #EXTINF:-1 tvg-id="56f7abf3-1586-4f6d-9df2-1726ccb43779" tvg-logo="https://s3.aynaott.com/storage/a959f06b4fc9e1421f867b6c1601fe43" group-title="Ayna OTT", Channel 9
-https://tvsen6.aynascope.net/channel9/index.m3u8?e=1751823107&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=0d4e8ec361d4ceef3aa43804ef53de45
+https://tvsen6.aynascope.net/channel9/index.m3u8?e=1751823876&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=12c0d8616e8d7a0bdfe0e63581b7d142
 #EXTINF:-1 tvg-id="4d629b90-cfc2-4426-9eef-62b879efdb02" tvg-logo="https://s3.aynaott.com/storage/5282cec3a2e9349b750540d658cf1b6c" group-title="Ayna OTT", Asian TV
-https://tvsen6.aynascope.net/asiantv/index.m3u8?e=1751823108&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=2601fb51b26f7fee8f109931ad6fa0d6
+https://tvsen6.aynascope.net/asiantv/index.m3u8?e=1751823878&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=0d5fcb65da74ba20eb1e8afff2809c19
 #EXTINF:-1 tvg-id="6662e038-604e-4cdc-87f7-8ec1cdf77a5e" tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92" group-title="Ayna OTT", Mohona TV
-https://tvsen6.aynascope.net/mohonatv/index.m3u8?e=1751823109&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=2c3d271b79982a37d3297464ee7f4b1d
+https://tvsen6.aynascope.net/mohonatv/index.m3u8?e=1751823881&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=c105ddc22b194a67230a968b079b9613
 #EXTINF:-1 tvg-id="f6096a6f-9891-4bfc-98d8-ea20ea1388fe" tvg-logo="https://s3.aynaott.com/storage/5e74c3498e10b3cd2dadfe676681d387" group-title="Ayna OTT", Islam TV
-https://tvsen6.aynascope.net/islam/index.m3u8?e=1751823111&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=de5c968d34870deaae0b164195d4c0bd
+https://tvsen6.aynascope.net/islam/index.m3u8?e=1751823883&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=1c248a327fc866ec8754ddac74ba5384
 #EXTINF:-1 tvg-id="596e39ca-a957-4029-bbc6-55e89dc5d4d4" tvg-logo="https://s3.aynaott.com/storage/f00eda9194eb13e8ef1d1387889173bf" group-title="Ayna OTT", RTV Islam
-https://tvsen6.aynascope.net/rtvislam/index.m3u8?e=1751823112&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=f3d7ff9a927452a9b652b149c7a17b1d
+https://tvsen6.aynascope.net/rtvislam/index.m3u8?e=1751823886&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=7dde34cd68bd21eb333f1d7c33cd1841
 #EXTINF:-1 tvg-id="4f059328-a08e-41c0-aa0e-fb11eb69da7e" tvg-logo="https://s3.aynaott.com/storage/0ce159bdea29fce7e3e85d12bc8a10c5" group-title="Ayna OTT", DW News
-https://tvsen6.aynascope.net/dwnews/index.m3u8?e=1751823113&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=48765a51e982f3e2875832e552dd845c
+https://tvsen6.aynascope.net/dwnews/index.m3u8?e=1751823887&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=a6e933092512e7f601b9fb5bbf194e78
 #EXTINF:-1 tvg-id="369ffecf-00a9-49a9-864d-a8f45c7ef6db" tvg-logo="https://s3.aynaott.com/storage/d969a37a7e1bbd49449ae092d34f0549" group-title="Ayna OTT", NHK World
-https://tvsen6.aynascope.net/nhkworld/index.m3u8?e=1751823115&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=e3ca367d45be90e1ef9faa747c5a1e07
+https://tvsen6.aynascope.net/nhkworld/index.m3u8?e=1751823888&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=72a7dfef4090b36ea319a56eb61bdf03
 #EXTINF:-1 tvg-id="a0e6e9b6-b20b-4f54-82d6-881bef762cfd" tvg-logo="https://s3.aynaott.com/storage/9b6f35f73a099b7a5885a970523c5f78" group-title="Ayna OTT", BTV NATIONAL HD
-https://tvsen6.aynascope.net/btvhd/index.m3u8?e=1751823117&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=dba2d4be131bee321c3c79e4790a32db
+https://tvsen6.aynascope.net/btvhd/index.m3u8?e=1751823890&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=7a3a63627736a38ac3fc5c686828e74f
 #EXTINF:-1 tvg-id="6e4ce5ee-32ea-4ecd-8893-6909c4cabee8" tvg-logo="https://s3.aynaott.com/storage/c37423f96dc7035dbf414c917e298fac" group-title="Ayna OTT", Saudi TV1 HD
-https://tvsen7.aynascope.net/SaudiTV1HD/index.m3u8?e=1751823120&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=91067956baf6703730e3e7a28c78478a
+https://tvsen7.aynascope.net/SaudiTV1HD/index.m3u8?e=1751823891&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=b2924bbf697b6518deed9f3ea66c0d58
 #EXTINF:-1 tvg-id="7747ecdd-ba30-4737-a600-54fdcdbcfebd" tvg-logo="https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4" group-title="Ayna OTT", Cricket Gold
-https://tvsen6.aynascope.net/CricketGold/index.m3u8?e=1751823124&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=6d3f71b89a2d27769bc42f16fc587e28
+https://tvsen6.aynascope.net/CricketGold/index.m3u8?e=1751823892&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=9055d7287c34e2659c25fec5b2805950
