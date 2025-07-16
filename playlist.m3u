@@ -1,21 +1,15 @@
-# Playlist By Abu SAEEID
-# https://t.me/abusaeeidx
-# github.com/abusaeeidx/
-# Iptv telegram channels
-# https://t.me/xfireflix
-# Last update: 2025-07-15 10:07:22 PM (Bangladesh Time)
-
-<!DOCTYPE html>
-<html style="height:100%">
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-<title> 404 Not Found
-</title></head>
-<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
-<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
-        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">404</h1>
-<h2 style="margin-top:20px;font-size: 30px;">Not Found
-</h2>
-<p>The resource requested could not be found on this server!</p>
-</div></div><div style="color:#f0f0f0; font-size:12px;margin:auto;padding:0px 30px 0px 30px;position:relative;clear:both;height:100px;margin-top:-101px;background-color:#474747;border-top: 1px solid rgba(0,0,0,0.15);box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;">
-<br>Proudly powered by LiteSpeed Web Server<p>Please be advised that LiteSpeed Technologies Inc. is not a web hosting company and, as such, has no control over content found on this site.</p></div></body></html>
+#EXTM3U
+#EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-logo="https://s3.aynaott.com/storage/eff41809fca04f7c1da5481e135d7913" group-title="Ayna OTT", ATN Bangla
+https://tvsen5.aynascope.net/P3y2URgG7LDe/index.m3u8?e=1752709998&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=1b8721dee608e0aa0c37bc084ffe9a48
+#EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-logo="https://s3.aynaott.com/storage/8a1af81802b0728c064c2adabcdc72c8" group-title="Ayna OTT", ETV
+https://tvsen6.aynascope.net/etv/index.m3u8?e=1752709998&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=5ba75d237a961b520b24399fee78e045
+#EXTINF:-1 tvg-id="27ec4394-7640-4dab-abf8-6a48893dfdfe" tvg-logo="https://s3.aynaott.com/storage/ece71c1163a377fbe2d93f9d28c34f60" group-title="Ayna OTT", Somoy News TV
+https://tvsen6.aynascope.net/somoytv/index.m3u8?e=1752710001&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=7c45a4e70f87a40b66ba130bbb211fc3
+#EXTINF:-1 tvg-id="dd8c50e9-5dad-4cb9-9df8-5763e95281ad" tvg-logo="https://s3.aynaott.com/storage/d10390e5434e8cb44172257abd714beb" group-title="Ayna OTT", Desh TV
+https://tvsen6.aynascope.net/deshtv/index.m3u8?e=1752710003&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=4754cfae3b8c8af213dbb4b456370e4e
+#EXTINF:-1 tvg-id="56f7abf3-1586-4f6d-9df2-1726ccb43779" tvg-logo="https://s3.aynaott.com/storage/a959f06b4fc9e1421f867b6c1601fe43" group-title="Ayna OTT", Channel 9
+https://tvsen6.aynascope.net/channel9/index.m3u8?e=1752710004&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=65de27897228b4f3cf37a607904d9112
+#EXTINF:-1 tvg-id="4d629b90-cfc2-4426-9eef-62b879efdb02" tvg-logo="https://s3.aynaott.com/storage/5282cec3a2e9349b750540d658cf1b6c" group-title="Ayna OTT", Asian TV
+https://tvsen6.aynascope.net/asiantv/index.m3u8?e=1752710006&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=cde4b26284abf4c866fd6fb4785c1978
+#EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3" group-title="Ayna OTT", SA TV
+https://tvsen6.aynascope.net/satv/index.m3u8?e=1752710008&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=4473784bead786433c366d2373351316
