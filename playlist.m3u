@@ -1,6 +1,6 @@
 #EXTM3U
 # Created by @AbuSaeedX
-# Total channels: 311
+# Total channels: 315
 # Generated: 2025
 
 #EXTINF:-1 tvg-id="20714fd4-dc3c-46d6-924f-3038d61f027c" tvg-name="Channel I" tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261" group-title="Recorded TV",Channel I
@@ -930,8 +930,15 @@ https://tvsen6.aynaott.com/NR1/index.m3u8?e=1753741272&u=9a031201-22d8-4f7e-9516
 #EXTINF:-1 tvg-id="bdf309a5-d732-45d8-989a-5ad5defd0224" tvg-name="Power Turk" tvg-logo="https://s3.aynaott.com/storage/4329cb48da7e29dff8be49eb4f80c4cd" group-title="Türkiye",Power Turk
 https://tvsen6.aynaott.com/PowerTurkTV/index.m3u8?e=1753741272&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=12487bb826c21584d19a8b241d46e893
 
-#EXTINF:-1 tvg-id="dd837351-ae92-4ce1-b5d4-1ceece83accf" tvg-name="Peace TV Urdu HD" tvg-logo="https://s3.aynaott.com/storage/0474144be69d57b0cabcb3245f032404" group-title="Urdhu",Peace TV Urdu HD
-https://tvsen6.aynaott.com/PeaceTVUrduHD/index.m3u8?e=1753741273&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=cc5298bc484f6cca06c2346b46bb09e2
+#EXTINF:-1 tvg-id="a16b35c8-a0b5-4db2-b094-24bf59b32583" tvg-name="Hum Masala" tvg-logo="https://s3.aynaott.com/storage/5b3f59d3e3f6d945c0f1745eec7e2970" group-title="Urdhu",Hum Masala
+https://tvsen7.aynaott.com/HumMasalaTVHD/index.m3u8?e=1754812290&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=fd3a227dcd7f9b26296b7f508dc86cc3
 
-#EXTINF:-1 tvg-id="6e4ce5ee-32ea-4ecd-8893-6909c4cabee8" tvg-name="Saudi TV1 HD" tvg-logo="https://s3.aynaott.com/storage/736bf5e77758249c1695e4299577b987" group-title="Arabic",Saudi TV1 HD
-https://tvsen7.aynaott.com/SaudiTV1HD/index.m3u8?e=1753741273&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=d67eed0cbd8a4d8249cf8e5067f6b477
+#EXTINF:-1 tvg-id="bd3a94f1-a573-4f5f-bc9a-18153d877544" tvg-name="Hum TV" tvg-logo="https://s3.aynaott.com/storage/b361ec9c0f3e5a7424830f5febc14ecb" group-title="Urdhu",Hum TV
+https://tvsen7.aynaott.com/HumTVHD/index.m3u8?e=1754812291&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=f575aeb925ea08e38e10a83e0df46302
+
+#EXTINF:-1 tvg-id="d29785d3-eb59-443a-9e29-ed161fc860ae" tvg-name="Hum Sitaray" tvg-logo="https://s3.aynaott.com/storage/bca46daf3abaa95116940ea3537413ff" group-title="Urdhu",Hum Sitaray
+https://tvsen7.aynaott.com/HumSitarayHD/index.m3u8?e=1754812291&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=93c9c42ebfead6cb2c0099e4eb70244b
+
+#EXTINF:-1 tvg-id="890a1a92-0602-4c2d-93ca-a2c43e7aec54" tvg-name="Zee Bangla International" tvg-logo="https://s3.aynaott.com/storage/104a86bd3ae874796e873dae9ebe1b40" group-title="Indian Bangla",Zee Bangla International
+https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8?e=1754812292&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=14674aa2b8d3658b329a595a5fab4e7d
+
